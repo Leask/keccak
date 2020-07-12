@@ -1,2 +1,2 @@
 
-module.exports = require('./js')
+module.exports = require('./lib/api')(require('./lib/keccak'))

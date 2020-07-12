@@ -21,9 +21,7 @@
     "Leask Wong <i@leaskh.com> (https://github.com/leask)"
   ],
   "main": "./index.js",
-  "browser": {
-    "./index.js": "./js.js"
-  },
+  "browser": "./index.js",
   "scripts": {},
   "devDependencies": {
     "browserify": "^16.5.0",
